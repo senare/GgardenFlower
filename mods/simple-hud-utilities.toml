@@ -1,0 +1,13 @@
+name = "Simple HUD Utilities"
+filename = "simple-hud-utilities-2.4.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mn86JBmJ/versions/2.4.0/simple-hud-utilities-2.4.0.jar"
+hash-format = "sha1"
+hash = "170690bf76e05508e9730e66bd4dbd75e0dd516c"
+
+[update]
+[update.modrinth]
+mod-id = "Mn86JBmJ"
+version = "BExTTd5H"

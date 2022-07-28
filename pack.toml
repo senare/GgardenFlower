@@ -1,0 +1,13 @@
+name = "Flowergarden"
+author = "senare"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ca864058ef5e520e53d612098c21cb6635cab87f55d9478458831d86fe83a5e9"
+
+[versions]
+fabric = "0.14.8"
+minecraft = "1.18.2"

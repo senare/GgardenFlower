@@ -1,0 +1,65 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "a2fba638de009bc90811fd1510a913bcdd090ccbb6424ccb062d882d4700c45f"
+
+[[files]]
+file = "mods/better-beds.toml"
+hash = "112cb3b761a4ef017c2123fe61c0bcd0425d67ecbbc77ea76dd4f9c6842312bf"
+metafile = true
+
+[[files]]
+file = "mods/botania.toml"
+hash = "c2dc3701c79aad2fa278359d47c32d4e4a10c349b0fc06e8b7400dec9b48700c"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.toml"
+hash = "f59359dcae8d9da125653d9127157a53ee780cff1580d9dcddfff8b9f0a167a9"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "37b69a71c010cb7e4d10a84a7c0e44373566ddb19aaaf4428ff2bb9ade0692e1"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.toml"
+hash = "efc2a5c84648fe9d84aaaae5ecdd352f3fff2a81857e53806f6a67d6e67dd845"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.toml"
+hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "53128f525532c2dd8927f8ca23f67a357c0e84d3907f86b99274092f14b76625"
+metafile = true
+
+[[files]]
+file = "mods/simple-hud-utilities.toml"
+hash = "71103fb4b15f79ddc4dd5ad1adaddd46307d0c4fbc197944ce5787ec4c834faa"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+metafile = true
+
+[[files]]
+file = "mods/wthit.toml"
+hash = "98c8ffafe56c38e04da80c8c061e1f1dfc1212a53f3b0c90d7f6b3381c961e95"
+metafile = true
