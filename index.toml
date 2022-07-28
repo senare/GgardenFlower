@@ -5,6 +5,11 @@ file = "README.md"
 hash = "a2fba638de009bc90811fd1510a913bcdd090ccbb6424ccb062d882d4700c45f"
 
 [[files]]
+file = "mods/architectury-api.toml"
+hash = "49a22647b2ec0cf9c7ededb6d4a4655f064a6d1ebbadaff3bf544e201bbea5a1"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.toml"
 hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
 metafile = true
@@ -52,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/phosphor.toml"
 hash = "f257c1d69a789d7ddcb0578d5987a7fc2eaf1681f1718600c51bd2ce6bce5f19"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.toml"
+hash = "08b91d64595d30ae8d99da996701f53c029a53333fec70d5dbba0cd8b31dcd31"
 metafile = true
 
 [[files]]
